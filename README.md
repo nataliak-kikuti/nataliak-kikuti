@@ -1,4 +1,4 @@
-### Olá!! Eu a Natalia Kikuti 👋
+### Olá!! Eu sou a Natalia Kikuti 👋
 
 <div align="center">
   <a href="https://github.com/nataliak-kikuti">
