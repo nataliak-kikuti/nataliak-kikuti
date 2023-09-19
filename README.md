@@ -10,9 +10,8 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
  <div>
-  <a href="https://github.com/gabrielniino">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielniino&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielniino&layout=compact&langs_count=7&theme=omni"/>
+  <a href="https://github.com/nataliak-kikuti">
+  >
 </div>
  </div>
  
