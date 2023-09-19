@@ -7,8 +7,10 @@
  Adoro explorar novas tecnologias e soluções para criar abordagens inovadoras e eficientes para resolver problemas complexos. Como entusiasta de tecnologia, estou sempre em busca de novos conhecimentos e maneiras de melhorar minhas habilidades no mundo da automação e da segurança cibernética, criando soluções de alta qualidade para os desafios atuais.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=nataliak-kikuti&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-nataliak-kikuti.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+  <a href="https://github.com/nataliak-kikuti">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliak-kikuti&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliak-kikuti&layout=compact&langs_count=7&theme=omni"/>
+
  <div>
   <a href="https://github.com/nataliak-kikuti"
 </div>
