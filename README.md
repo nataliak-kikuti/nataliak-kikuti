@@ -2,7 +2,9 @@
 <img align="center" style="margin-bottom:100px" width=100%  />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu sou apaixonado por desafios que envolvem automação utilizando Python, RPA (Robotic Process Automation) e cibersegurança. Adoro explorar novas tecnologias e soluções para criar abordagens inovadoras e eficientes para resolver problemas complexos. Como entusiasta de tecnologia, estou sempre em busca de novos conhecimentos e maneiras de melhorar minhas habilidades no mundo da automação e da segurança cibernética, criando soluções de alta qualidade para os desafios atuais.</p>&nbsp;
+<p align="center">Eu sou apaixonado por desafios que envolvem automação utilizando Python, RPA (Robotic Process Automation) e cibersegurança. 
+ 
+ Adoro explorar novas tecnologias e soluções para criar abordagens inovadoras e eficientes para resolver problemas complexos. Como entusiasta de tecnologia, estou sempre em busca de novos conhecimentos e maneiras de melhorar minhas habilidades no mundo da automação e da segurança cibernética, criando soluções de alta qualidade para os desafios atuais.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
