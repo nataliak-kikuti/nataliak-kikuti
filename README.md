@@ -1,4 +1,5 @@
 <img align="center" style="margin-bottom:100px" width=100%  />
+<div align="center"> <img src=""> </div>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Eu sou apaixonado por desafios que envolvem automação utilizando Python, RPA (Robotic Process Automation) e cibersegurança.
