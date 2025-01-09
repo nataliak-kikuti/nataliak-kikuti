@@ -2,9 +2,9 @@
 <div align="center"> <img src="https://github.com/nataliak-kikuti/nataliak-kikuti/blob/main/header-image.png"> </div>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Eu sou apaixonado por desafios que envolvem automação utilizando Python, RPA (Robotic Process Automation) e cibersegurança.
-  
-  Adoro explorar novas tecnologias e soluções para criar abordagens inovadoras e eficientes para resolver problemas complexos. Como entusiasta de tecnologia, estou sempre em busca de novos conhecimentos e maneiras de melhorar minhas habilidades no mundo da automação e da segurança cibernética, criando soluções de alta qualidade para os desafios atuais.</p>&nbsp;
+<p align="center">Gosto de desafios que exigem análise detalhada e soluções eficientes para problemas complexos. Tenho facilidade em aprender e aplicar novas tecnologias, sempre com foco em resultados e melhorias práticas.
+
+Minha motivação está em buscar maneiras de simplificar processos e criar soluções úteis, aproveitando cada oportunidade para evoluir e contribuir de forma significativa.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
   <a href="https://github.com/nataliak-kikuti">
