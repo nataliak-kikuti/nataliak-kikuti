@@ -3,7 +3,6 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Gosto de desafios que exigem análise detalhada e soluções eficientes para problemas complexos. Tenho facilidade em aprender e aplicar novas tecnologias, sempre com foco em resultados e melhorias práticas.
-
 Minha motivação está em buscar maneiras de simplificar processos e criar soluções úteis, aproveitando cada oportunidade para evoluir e contribuir de forma significativa.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
