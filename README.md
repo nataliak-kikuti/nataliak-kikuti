@@ -28,9 +28,7 @@ Minha motivação está em buscar maneiras de simplificar processos e criar solu
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Estudando no momento:
 
-![UiPath](https://img.shields.io/badge/UiPath-00BFFF?style=for-the-badge&logo=uipath&logoColor=white)
 
 #### Ferramentas do Ambiente de Trabalho:
 
