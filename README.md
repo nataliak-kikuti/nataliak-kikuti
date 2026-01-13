@@ -22,9 +22,9 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Ilustração computador" />
-</p>
+</p> -->
 
 ---
 
@@ -52,6 +52,6 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-</p>
+</p> -->
