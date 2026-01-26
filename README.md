@@ -4,7 +4,11 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&duration=5008&pause=1000&color=EB0000&width=630&height=30&lines=Studying+Analysis+%26+Systems+Development+%F0%9F%93%9A+;Exploring+Automation+in+Cybersecurity+%F0%9F%A4%96;Always+curious+%26+eager+to+learn+%F0%9F%8C%9F;Welcome+to+my+GitHub!+%F0%9F%9A%80)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&duration=5008&pause=1000&color=EB0000&width=630&height=30&lines=Studying+Analysis+%26+Systems+Development+%F0%9F%93%9A+;Exploring+Automation+in+Cybersecurity+%F0%9F%A4%96;Always+curious+%26+eager+to+learn+%F0%9F%8C%9F;Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NataliaK-Kikuti&show_icons=true&count_private=true&hide_border=true&title_color=eb0000&icon_color=eb0000&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
