@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=CB0E0B&section=header&reversal=false&textBg=false&fontAlign=44&fontAlignY=0"/>
 <p align="center">
   <img src="https://github.com/nataliak-kikuti/nataliak-kikuti/blob/main/github-banner .png" alt="Banner" width="100%" />
 </p>
