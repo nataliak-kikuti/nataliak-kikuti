@@ -14,7 +14,7 @@
 
 <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NataliaK-Kikuti&show_icons=true&count_private=true&hide_border=true&title_color=eb0000&icon_color=eb0000&text_color=B1A3A2B1&bg_color=000000"/> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaK-Kikuti&layout=compact&hide_border=true&title_color=eb0000&text_color=B1A3A2B1&bg_color=000000"/>
+<img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaK-Kikuti&layout=compact&hide_border=true&title_color=eb0000&text_color=B1A3A2B1&bg_color=000000"/>
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=nataliak-kikuti&hide_border=&locale=pt_BR&short_numbers=&background=000000&border=E4E2E2&stroke=F80000&ring=C50000&fire=C50000&currStreakNum=FFFFFF&sideNums=C50000&currStreakLabel=C50000&sideLabels=FFFFFF&dates=B1A3A2B1&excludeDaysLabel=464646" alt="GitHub Streak"/> -->
   
 </div>
